@@ -1,6 +1,6 @@
 # My portfolio under construction
 
-[my pic] (![image](https://user-images.githubusercontent.com/101484998/158498167-31ef7dd9-26b0-4959-ab8f-ddacb639763d.png)
+(![image](https://user-images.githubusercontent.com/101484998/158498167-31ef7dd9-26b0-4959-ab8f-ddacb639763d.png)
 
 ## Linear Regression
 
