@@ -1,6 +1,6 @@
 # My portfolio under construction
 
-##Linear Regression
+## Linear Regression
 
 <a href="https://stmiantl.github.io/Linear_Regression_project/"> Linear_Regression_project </a>
 
